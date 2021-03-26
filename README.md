@@ -1,4 +1,4 @@
-# PoliceOfficer_TicketSimulator
+# Police Officer Ticket Simulator
 
  * For this assignment you will design a set of classes that work together to 
  * simulate a police officer issuing a parking ticket. 
@@ -25,4 +25,12 @@
  * 
  * Write a program that demonstrates how these classes collaborate. Make the aforementioned classes nested classes within
  * the class containing your main method; only this outermost class can be declared public.
- * 
+ 
+ OUTPUT
+ 
+ ![sample-out-1](https://user-images.githubusercontent.com/75389946/112587693-70cd0680-8dd4-11eb-86c3-e012ff889d13.jpg)
+
+![sample-out-2](https://user-images.githubusercontent.com/75389946/112587712-76c2e780-8dd4-11eb-8199-584dc5ee9c4d.jpg)
+
+![sample-out-3](https://user-images.githubusercontent.com/75389946/112587736-82aea980-8dd4-11eb-981a-85b858a93158.jpg)
+
